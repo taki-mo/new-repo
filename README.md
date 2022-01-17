@@ -4,6 +4,8 @@
 
 ## installation
 
+Récupérer un projetavec la commande `git clone https://github.com/benoitsemifir/mon-super-repo`
+
 ### Docker
 
 - Première tache
